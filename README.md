@@ -1,12 +1,13 @@
-# MERN-SIgnup-Signin
+<h1>MERN-SIgnup-Signin</h1>
 
-#Commands to get Frontend started
-npm init vite
+<h3>Commands to get Frontend started</h3>
+<pre><code>npm init vite
 npm install bootstrap axios react-router-dom
 npm run dev
+</code></pre>
 
-
-Commands to get Backend started
-npm init -y
+<h3>Commands to get Backend started</h3>
+<pre><code>npm init -y
 npm install mongoose nodemon express cors 
 npm start
+</code></pre>
